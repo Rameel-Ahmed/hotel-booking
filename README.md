@@ -117,7 +117,4 @@ python main.py
 
 ---
 
-## 🙌 Author
-
-Built with ❤️ by [Your Name] as a practice project in Python.
 
